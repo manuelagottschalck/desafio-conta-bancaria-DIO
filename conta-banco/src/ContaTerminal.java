@@ -16,7 +16,7 @@ public class ContaTerminal {
         System.out.println("Por favor, insira o número");
         numero = scanner.nextInt();
 
-        scanner.nextLine(); ///adionado pois a classe scanner le uma nova linha como um caracter, com a classe adiconada neste ponto do codigo, ele lera o caracetr"\n"
+        scanner.nextLine(); ///adionado pois a classe scanner le uma nova linha como um caracter, com a classe adicionada neste ponto do codigo, ele lerá o caracter"\n", após lerá o nome de fato;
     
         System.out.println("Por favor, digite seu nome completo");
         nome = scanner.nextLine();
