@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio da conta bancária pela DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste desafio, foi solicitado que desenvolvêssemos uma simulação de conta bancária. O sistema desenvolvido possui os seguintes parâmetros:
 
-## Folder Structure
+- Agência;
+- Número da conta;
+- Nome completo;
+- Saldo;
 
-The workspace contains two folders by default, where:
+Ao inserir todos estes parâmetros, o sistema exibe a seguinte mensagem: "Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque"
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Recursos utilizados
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Neste código foram utilizadas duas classes principais como recursos: **Locale**, para interpretação de dados numéricos, e a **Scanner**, para a entrada de dados no console.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### Caso tenham qualquer dúvida, por favor me chamem! Aceito também,  sugestões para a melhoria do código!
